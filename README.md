@@ -1,4 +1,4 @@
-![business-person-futuristic-business-environment](https://github.com/dhaivatrawal/MVP-with-Markowitz-Mean-Variance-Optimization-model/assets/101917324/69300915-044b-4615-a07f-9fc52ffaeccb)# MVP Markowitz Mean Variance Optimization model
+# MVP Markowitz Mean Variance Optimization model
 
 The project focuses on implementing the Markowitz Mean-Variance Optimization model, a cornerstone of modern portfolio theory, using Python alongside advanced libraries such as NumPy for numerical computations, Matplotlib for data visualization, and Gurobi for solving optimization problems. It explores various optimization scenarios by imposing different constraints on expected returns and portfolio weights.
 
